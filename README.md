@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/1QV5LS1.png" width="150" align="right"/>
+<img src="https://imgur.com/3iWwYhk" width="150" align="right"/>
 
 ## ✨ extera XY
 Experimental **third-party** Telegram client based on [official sources](https://github.com/DrKLO/Telegram).
