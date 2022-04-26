@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- extera XY's Main Strings -->
-    <string name="exteraAppName">extera XY</string>
-    <string name="exteraAppNameBeta">extera XY β</string>
+    <string name="exteraAppName">extera XYI</string>
+    <string name="exteraAppNameBeta">extera XYI β</string>
     <string name="exteraDebugMenu">¯\\_(ツ)_/¯</string>
     <string name="MutualContact">mutual contact</string>
     <string name="ToBeginning">To beginning</string>
@@ -15,7 +15,7 @@
     <string name="Channel">Channel</string>
     <string name="Chats">Chats</string>
 
-    <string name="Preferences">extera XY Preferences</string>
+    <string name="Preferences">extera XYI Preferences</string>
     <string name="RestartRequired">Restart the app to take effect.</string>
 
     <string name="Categories">Categories</string>
@@ -57,7 +57,7 @@
     <string name="DisableCamera">Disable instant camera</string>
     <string name="DisableProximityEvents">Disable proximity events</string>
     <string name="PauseOnMinimize">Autopause</string>
-    <string name="POMDescription">Pauses a video playback when device is locked or extera XY is minimized</string>
+    <string name="POMDescription">Pauses a video playback when device is locked or extera XYI is minimized</string>
     <string name="DisablePlayback">Disable playback</string>
     <string name="DPDescription">Disables playback when volume button is pressed</string>
 
